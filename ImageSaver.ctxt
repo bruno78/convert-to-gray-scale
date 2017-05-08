@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ImageSaver
+comment1.params=filePrefix
+comment1.target=void\ doSave(java.lang.String)
+numComments=2
